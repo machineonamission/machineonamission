@@ -1,7 +1,7 @@
 # welcome to my github!
 
 [![website: machineonamission.me](https://img.shields.io/badge/website-machineonamission.me-ff00ff)](https://machineonamission.me)
-[![wakatime](https://wakatime.com/badge/user/ceaa3b2d-5469-499f-97ed-b23bda26c31a/project/7114917f-f795-4c9f-aadf-0e66528176be.svg)](https://wakatime.com/badge/user/ceaa3b2d-5469-499f-97ed-b23bda26c31a/project/7114917f-f795-4c9f-aadf-0e66528176be)
+[![wakatime](https://wakatime.com/badge/user/ceaa3b2d-5469-499f-97ed-b23bda26c31a.svg)](https://wakatime.com/@ceaa3b2d-5469-499f-97ed-b23bda26c31a)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/reticivis)
 
 
