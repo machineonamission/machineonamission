@@ -1,5 +1,6 @@
-# Standard "Machine on a Mission" License
-The Standard "Machine on a Mission" License is a combination of GNU AGPL-3.0-or-later and the Commons Clause.
+# AGPL3 License + Commons Clause
+This project is licensed under a combination of GNU AGPL-3.0-or-later and the Commons Clause.
+
 ## ✅ Permissions
  - **Modification**:
 The licensed material may be modified.
@@ -50,7 +51,7 @@ Without limiting other conditions in the License, the grant of rights under the 
 
 For purposes of the foregoing, “Sell” means practicing any or all of the rights granted to you under the License to provide to third parties, for a fee or other consideration (including without limitation fees for hosting or consulting/ support services related to the Software), a product or service whose value derives, entirely or substantially, from the functionality of the Software. Any license notice or attribution required by the License must also include this Commons Clause License Condition notice.
 
-Software: dlPro
+Software: [Software name here]
 
 License: GNU Affero General Public License v3.0 or later
 
