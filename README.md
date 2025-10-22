@@ -6,6 +6,10 @@
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=machineonamission&count_private=true&theme=jolly&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![reticivis's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=machineonamission&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+[![my wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=machineonamission&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
-Unless otherwise specified, all standalone projects are licensed under [AGPL-3.0-or-later + Commons Clause](LICENSE.md), and all libraries intended to be used in larger projects are licensed under [LGPL-3.0-or-later](LGPL-3.0)
+## licensing
+- If the project itself contains a license, then use that. the below are if it's unspecified:
+- Standalone projects: [AGPL-3.0-or-later](https://www.gnu.org/licenses/agpl-3.0.html) + [Commons Clause](https://commonsclause.com/)
+- Libraries intended to be used in other projects: [LGPL-3.0-or-later](https://www.gnu.org/licenses/lgpl-3.0.en.html)
+- Creative works: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
