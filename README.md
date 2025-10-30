@@ -6,8 +6,6 @@
 
 Official Discord: [![Discord](https://discordapp.com/api/guilds/803788965215338546/widget.png)](https://discord.gg/xwWjgyVqBz)
 
-<iframe src="https://discord.com/widget?id=803788965215338546&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=machineonamission&count_private=true&theme=jolly&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![my wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=machineonamission&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
