@@ -11,6 +11,6 @@ Official Discord: [![Discord](https://discordapp.com/api/guilds/8037889652153385
 
 ## licensing
 - If the project itself contains a license, then use that. the below are if it's unspecified:
-- Standalone projects: [AGPL-3.0-or-later](https://www.gnu.org/licenses/agpl-3.0.html) + [Commons Clause](https://commonsclause.com/)
+- Standalone projects: [AGPL-3.0-or-later](https://www.gnu.org/licenses/agpl-3.0.html)
 - Libraries intended to be used in other projects: [LGPL-3.0-or-later](https://www.gnu.org/licenses/lgpl-3.0.en.html)
 - Creative works: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
