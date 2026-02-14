@@ -7,7 +7,7 @@
 Official Discord: [![Discord](https://discordapp.com/api/guilds/803788965215338546/widget.png)](https://machineonamission.me/discord)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C257%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C257%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
@@ -51,8 +51,8 @@ Sunday                   1909 commits        ████░░░░░░░�
 
 💬 Programming Languages: 
 Rust                     1 hr 35 mins        █████████░░░░░░░░░░░░░░░░   36.34 % 
-SQL                      1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   27.97 % 
-Markdown                 1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+SQL                      1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   27.96 % 
+Markdown                 1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
 TOML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 C++                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
@@ -62,7 +62,7 @@ CLion                    34 mins             ███░░░░░░░░�
 
 🐱‍💻 Projects: 
 affinames                1 hr 51 mins        ███████████░░░░░░░░░░░░░░   42.59 % 
-plantnames               1 hr 50 mins        ███████████░░░░░░░░░░░░░░   42.38 % 
+plantnames               1 hr 50 mins        ███████████░░░░░░░░░░░░░░   42.37 % 
 assignment6-performance-b34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
 melmacros                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 affinames.iml            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
@@ -88,7 +88,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/machineonamission/machineonamission/main/assets/bar_graph.png)
 
 
- Last Updated on 13/02/2026 01:33:35 UTC
+ Last Updated on 14/02/2026 01:24:22 UTC
 <!--END_SECTION:waka-->
 
 ## licensing
