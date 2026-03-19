@@ -3,6 +3,8 @@
 [![website: machineonamission.me](https://img.shields.io/badge/website-machineonamission.me-ff00ff)](https://machineonamission.me)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/machineonamission) [![Discord](https://discordapp.com/api/guilds/803788965215338546/widget.png)](https://machineonamission.me/discord)
 
+[![gh stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
+
 ## wakatime
 
 [![wakatime](https://wakatime.com/badge/user/ceaa3b2d-5469-499f-97ed-b23bda26c31a.svg)](https://wakatime.com/@ceaa3b2d-5469-499f-97ed-b23bda26c31a)
