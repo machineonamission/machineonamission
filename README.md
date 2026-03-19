@@ -7,7 +7,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/ceaa3b2d-5469-499f-97ed-b23bda26c31a.svg)](https://wakatime.com/@ceaa3b2d-5469-499f-97ed-b23bda26c31a)
 
-[![wakatime langs](https://wakatime.com/share/@machineonamission/011a3972-5abc-42e1-8f50-8b5ca4068db9.svg)](https://wakatime.com/@ceaa3b2d-5469-499f-97ed-b23bda26c31a)
+[![wakatime langs](https://wakatime.com/share/@machineonamission/c8cffee9-10da-44c8-bf63-1f85d3ca0547.svg)](https://wakatime.com/@ceaa3b2d-5469-499f-97ed-b23bda26c31a)
 
 [![wakatime chart](https://wakatime.com/share/@machineonamission/3b41217f-511e-463b-a205-5c0bde15a6d6.svg)](https://wakatime.com/@ceaa3b2d-5469-499f-97ed-b23bda26c31a)
 
