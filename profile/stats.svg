@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Machine on a Mission's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 474, Total Commits  (last year) : 1202, Total PRs: 35, Total Issues: 317, Contributed to (last year): 39</desc>
+        <desc id="descId">Total Stars Earned: 474, Total Commits  (last year) : 1224, Total PRs: 35, Total Issues: 317, Contributed to (last year): 39</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 67.25382165990092;
+        stroke-dashoffset: 67.16533729695892;
       }
     }
   
